@@ -1,4 +1,5 @@
 # Hello_World
-I will store here all info for my project
-Now i am testing how to commit 
-Ithink it will be vety interesting
+I will store here all info for our project
+Now testing how to commit 
+Lets start
+I think it will be vety interesting and enjoyable
